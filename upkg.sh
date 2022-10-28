@@ -15,7 +15,9 @@ sudo apt install zip -y
 
 sudo apt install vim -y
 
-sudo apt install net-tools -ysudo apt install sysstat -y
+sudo apt install net-tools -y
+
+sudo apt install sysstat -y
 
 sudo apt install wget -y
 
